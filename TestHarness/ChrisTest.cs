@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TestHarness
 {
 	[TestClass]
-	public class UnitTest1
+	public class ChrisTest
 	{
 		[TestMethod]
 		public void TestMethod1()
