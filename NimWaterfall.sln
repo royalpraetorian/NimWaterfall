@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimWaterfall", "NimWaterfall\NimWaterfall.csproj", "{FA273683-697F-4D18-A232-8D786FB6AE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{E058F267-C75E-4F9C-9A20-53FDC63B7385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA273683-697F-4D18-A232-8D786FB6AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA273683-697F-4D18-A232-8D786FB6AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA273683-697F-4D18-A232-8D786FB6AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA273683-697F-4D18-A232-8D786FB6AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E058F267-C75E-4F9C-9A20-53FDC63B7385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E058F267-C75E-4F9C-9A20-53FDC63B7385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E058F267-C75E-4F9C-9A20-53FDC63B7385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E058F267-C75E-4F9C-9A20-53FDC63B7385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F38145-86CD-40F1-8C0F-CF7C868EE900}
+	EndGlobalSection
+EndGlobal
